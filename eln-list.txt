@@ -42,6 +42,7 @@ ansible-pcp
 ant
 anthy-unicode
 antlr
+aom
 aopalliance
 apache-commons-beanutils
 apache-commons-cli
@@ -63,6 +64,7 @@ appstream-data
 apr
 apr-util
 aqute-bnd
+argon2
 argparse-manpage
 asciidoc
 asio
@@ -280,7 +282,7 @@ fcoe-utils
 fdk-aac-free
 fedora-eln-backgrounds
 fedora-eln-logos
-fedora-release
+fedora-eln-release
 fedora-repos
 felix-parent
 felix-utils
@@ -895,6 +897,7 @@ libisoburn
 libisofs
 libjcat
 libjpeg-turbo
+libjwt
 libkcapi
 libkdumpfile
 libkeepalive
@@ -1220,7 +1223,6 @@ nmap
 nmstate
 nodejs-nodemon
 nodejs-packaging
-nodejs22
 nodejs24
 npth
 nss
@@ -1670,10 +1672,13 @@ pytest
 python-PyMySQL
 python-alembic
 python-argcomplete
+python-argon2-cffi
+python-argon2-cffi-bindings
 python-asn1crypto
 python-attrs
 python-augeas
 python-awscrt
+python-bcrypt
 python-blivet
 python-breathe
 python-build
@@ -1739,6 +1744,7 @@ python-nihtest
 python-oauthlib
 python-packaging
 python-pam
+python-passlib
 python-pathspec
 python-pefile
 python-pexpect
@@ -2035,6 +2041,7 @@ squashfs-tools
 squid
 sscg
 sshpass
+sso-mib
 sssd
 stalld
 star
@@ -2148,6 +2155,8 @@ v4l-utils
 vala
 valgrind
 valkey
+varnish
+varnish-modules
 vazirmatn-fonts
 vdo
 velocity
@@ -2163,6 +2172,7 @@ virt-what
 virt-who
 virtio-win
 virtiofsd
+vmaf
 voikko-fi
 volume_key
 vorbis-tools

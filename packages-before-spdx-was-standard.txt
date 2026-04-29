@@ -1899,7 +1899,6 @@ fbzx
 fcft
 fcgi
 fcgiwrap
-fcitx-anthy
 fcitx-cloudpinyin
 fcitx-configtool
 fcitx-fbterm
@@ -3920,7 +3919,6 @@ golang-github-zyedidia-terminal
 golang-gitlab-commonmark-linkify
 golang-gitlab-esr-fqme
 golang-gitlab-ianbruene-kommandant
-golang-google-appengine
 golang-google-genproto
 golang-google-protobuf
 golang-gopkg-alecthomas-kingpin-2
@@ -7528,10 +7526,6 @@ nulib2
 numactl
 numad
 numatop
-numix-gtk-theme
-numix-icon-theme-circle
-numix-icon-theme
-numix-icon-theme-square
 numlockx
 numptyphysics
 numpy
@@ -7548,7 +7542,6 @@ nvme-stas
 nvmetcli
 nvml
 nwg-launchers
-nwg-panel
 nwchem
 nwipe
 nx-libs
@@ -12164,7 +12157,6 @@ python-crashtest
 python-crayons
 python-crcmod
 python-croniter
-python-cro
 python-cryptography
 python-crypto
 python-cson
@@ -13084,7 +13076,6 @@ python-pylibravatar
 python-pylons-sphinx-themes
 python-pyls-spyder
 python-pymacaroons-pynacl
-python-pymatreader
 python-pymdown-extensions
 python-pymediainfo
 python-pymediawiki
@@ -13964,7 +13955,6 @@ quantum-espresso
 quarry
 quarter
 quassel
-quaternion
 quazip
 qucs
 qucs-s
@@ -15526,7 +15516,6 @@ rust-tokio-openssl
 rust-tokio-rustls
 rust-toml_edit
 rust-toml
-rust-tonic-prost
 rust-tpm2-policy
 rust-tree-sitter
 rust-trybuild

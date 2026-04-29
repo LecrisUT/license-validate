@@ -247,7 +247,7 @@ fcoe-utils
 fdk-aac-free
 fedora-eln-backgrounds
 fedora-eln-logos
-fedora-release
+fedora-eln-release
 fedora-repos
 fence-agents
 fetchmail
@@ -1106,7 +1106,6 @@ nmap
 nmstate
 nodejs-nodemon
 nodejs-packaging
-nodejs22
 nodejs24
 npth
 nss
@@ -1528,6 +1527,7 @@ python-networkx
 python-oauthlib
 python-packaging
 python-pam
+python-passlib
 python-pathspec
 python-pefile
 python-pexpect
@@ -1781,6 +1781,7 @@ squashfs-tools
 squid
 sscg
 sshpass
+sso-mib
 sssd
 stalld
 star
@@ -1885,6 +1886,8 @@ uuid
 v4l-utils
 valgrind
 valkey
+varnish
+varnish-modules
 vazirmatn-fonts
 vdo
 vhostmd

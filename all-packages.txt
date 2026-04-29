@@ -1322,6 +1322,7 @@ cri-tools1.32
 cri-tools1.33
 cri-tools1.34
 cri-tools1.35
+cri-tools1.36
 criu
 cr-marcstevens-snippets
 crm114
@@ -2265,7 +2266,6 @@ fbzx
 fcft
 fcgi
 fcgiwrap
-fcitx-anthy
 fcitx-cloudpinyin
 fcitx-configtool
 fcitx-fbterm
@@ -2317,6 +2317,7 @@ fedora-bookmarks
 fedora-distro-aliases
 fedora-easy-karma
 fedora-eln-backgrounds
+fedora-eln-release
 fedora-flathub-remote
 fedora-gnat-project-common
 fedora-chromium-config
@@ -2398,6 +2399,7 @@ firebird
 firecracker
 firefox
 firejail
+firetools
 firewalk
 firewalld
 firmitas
@@ -3975,7 +3977,6 @@ golang-github-alecthomas-units
 golang-github-alexflint-filemutex
 golang-github-aliyun-alibaba-cloud-sdk
 golang-github-aliyun-oss-sdk
-golang-github-allan-simon-singleinstance
 golang-github-andreyvit-diff
 golang-github-andybalholm-brotli
 golang-github-andybalholm-cascadia
@@ -4072,7 +4073,6 @@ golang-github-dimchansky-utfbom
 golang-github-disintegration-imaging
 golang-github-distribution-reference
 golang-github-djherbis-atime
-golang-github-dlasky-gotk3-layershell
 golang-github-dlclark-regexp2
 golang-github-dnaeon-vcr
 golang-github-docker-connections
@@ -4192,7 +4192,6 @@ golang-github-gorilla-schema
 golang-github-gorilla-websocket
 golang-github-gosexy-gettext
 golang-github-gosuri-uilive
-golang-github-gotk3
 golang-github-groupcache
 golang-github-hailocab-hostpool
 golang-github-hamba-avro2
@@ -4276,7 +4275,6 @@ golang-github-jose4
 golang-github-josharian-intern
 golang-github-josharian-native
 golang-github-joshuarubin-lifecycle
-golang-github-joshuarubin-sway
 golang-github-jsimonetti-rtnetlink
 golang-github-jsonnet-bundler
 golang-github-jtolds-gls
@@ -4621,7 +4619,6 @@ golang-gitlab-commonmark-linkify
 golang-gitlab-esr-fqme
 golang-gitlab-ianbruene-kommandant
 golang-gitlab-yawning-edwards25519-extra
-golang-google-appengine
 golang-google-genproto
 golang-google-protobuf
 golang-gopkg-alecthomas-kingpin-2
@@ -8942,10 +8939,6 @@ numactl
 numad
 numatop
 numberstation
-numix-gtk-theme
-numix-icon-theme-circle
-numix-icon-theme
-numix-icon-theme-square
 numlockx
 numptyphysics
 numpy
@@ -8962,11 +8955,7 @@ nvme-stas
 nvmetcli
 nvml
 nvtop
-nwg-bar
-nwg-dock
-nwg-drawer
 nwg-launchers
-nwg-panel
 nwg-wrapper
 nwchem
 nwipe
@@ -9037,6 +9026,7 @@ ocaml-cudf
 ocaml-curl
 ocaml-curses
 ocaml-dbus
+ocaml-domain-name
 ocaml-dose3
 ocaml-dune
 ocaml-easy-format
@@ -9286,6 +9276,7 @@ openbgpd
 openbios
 openblas
 openblas-srpm-macros
+OpenBoard
 openbox
 openbox-theme-mistral-thin-dark
 openbox-theme-mistral-thin
@@ -14157,7 +14148,6 @@ python-crick
 python-crochet
 python-cron-converter
 python-croniter
-python-cro
 python-crossword
 python-cryptography
 python-crypto
@@ -14345,7 +14335,6 @@ python-easydict
 python-easygui
 python-easyprocess
 python-ebooklib
-python-ebranch
 python-eccodes
 python-ecdsa
 python-edgegrid
@@ -15214,6 +15203,7 @@ python-orjson
 python-osa
 python-osc-lib
 python-os-client-config
+python-osc-placement
 python-oscrypto
 python-oslo-concurrency
 python-oslo-config
@@ -15341,7 +15331,6 @@ python-podman
 python-poetry-core
 python-poetry-dynamic-versioning
 python-poetry-plugin-export
-python-poi-tracker
 python-polib
 python-pooch
 python-portalocker
@@ -15444,6 +15433,7 @@ python-py_ecc
 python-pyembroidery
 python-pyerfa
 python-pyev
+python-pyexiftool
 python-pyface
 python-pyfakefs
 python-pyfiglet
@@ -15498,7 +15488,6 @@ python-pylsqpack
 python-pyls-spyder
 python-pymacaroons-pynacl
 python-pymapvbvd
-python-pymatreader
 python-pymaven-patch
 python-pymdown-extensions
 python-pymediainfo
@@ -16726,7 +16715,6 @@ quantum-espresso
 quarry
 quarter
 quassel
-quaternion
 quazip
 qucs
 qucs-s
@@ -18304,7 +18292,6 @@ rust-content_inspector
 rust-convert_case
 rust-convert_case0.4
 rust-convert_case0.6
-rust-convert_case0.7
 rust-cookie-factory
 rust-cookie
 rust-cookie_store
@@ -18973,11 +18960,13 @@ rust-half1
 rust-hamcrest2
 rust-hamming
 rust-handlebars
+rust-harfbuzz-traits
 rust-hashbrown
 rust-hashbrown0.12
 rust-hashbrown0.13
 rust-hashbrown0.14
 rust-hashbrown0.15
+rust-hashbrown0.16
 rust-hashlink
 rust-hashlink0.10
 rust-hashlink0.9
@@ -19536,6 +19525,7 @@ rust-nettle
 rust-nettle-sys
 rust-new_debug_unreachable
 rust-newtype-uuid
+rust-nginx-sys
 rust-nibble_vec
 rust-nitro-enclaves
 rust-nix
@@ -19639,6 +19629,7 @@ rust-onefetch-image
 rust-onefetch-manifest
 rust-onefetch
 rust-onenote_parser
+rust-oneshot
 rust-onig
 rust-onig_sys
 rust-oo7-cli
@@ -19925,19 +19916,24 @@ rust-pyo3-async-runtimes0.25
 rust-pyo3-build-config
 rust-pyo3-build-config0.25
 rust-pyo3-build-config0.26
+rust-pyo3-build-config0.27
 rust-pyo3-ffi
 rust-pyo3-ffi0.25
 rust-pyo3-ffi0.26
+rust-pyo3-ffi0.27
 rust-pyo3-log
 rust-pyo3-macros-backend
 rust-pyo3-macros-backend0.25
 rust-pyo3-macros-backend0.26
+rust-pyo3-macros-backend0.27
 rust-pyo3-macros
 rust-pyo3-macros0.25
 rust-pyo3-macros0.26
+rust-pyo3-macros0.27
 rust-pyo3
 rust-pyo3_0.25
 rust-pyo3_0.26
+rust-pyo3_0.27
 rust-pyproject-toml
 rust-pythonize
 rust-python-launcher
@@ -20399,6 +20395,7 @@ rust-sketches-ddsketch
 rust-slab
 rust-sled
 rust-slog-async
+rust-slog-json
 rust-slog-scope
 rust-slog
 rust-slog-term
@@ -21250,6 +21247,7 @@ samplv1
 samtools
 samurai
 sandia-omega-h
+sandogasa
 sane-airscan
 sane-backends
 sane-frontends
@@ -22956,7 +22954,6 @@ wlopm
 wlrctl
 wl-restart
 wlroots
-wlroots0.15
 wlroots0.18
 wlroots0.19
 wlr-protocols

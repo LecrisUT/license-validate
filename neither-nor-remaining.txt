@@ -1,4 +1,5 @@
 lazarus
 lazarus
+libftdi
 openal-soft
 webkitgtk

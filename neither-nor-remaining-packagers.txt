@@ -1,11 +1,15 @@
 Maintainers by package:
 lazarus              suve
+libftdi              hobbes1069 robert sharkcz
 openal-soft          fcami jwrdegoede tdawson
 webkitgtk            catanzaro
 
 Packages by maintainer:
 catanzaro  webkitgtk
 fcami      openal-soft
+hobbes1069 libftdi
 jwrdegoede openal-soft
+robert     libftdi
+sharkcz    libftdi
 suve       lazarus
 tdawson    openal-soft

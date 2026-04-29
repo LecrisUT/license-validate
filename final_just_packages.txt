@@ -182,7 +182,6 @@ esound
 eterm
 eventlog
 exo
-extra-cmake-modules
 e16-docs
 e16-epplets
 e16-keyedit
@@ -575,6 +574,7 @@ libesmtp
 libfep
 libfilteraudio
 libftdi
+libftdi
 libgadu
 libgdamm
 libglade2
@@ -599,7 +599,6 @@ libkcddb
 libkdegames
 liblinear
 liblo
-liblxqt
 liblzf
 libmash
 libmatekbd
@@ -621,7 +620,6 @@ libpgf
 libphonenumber
 libpqxx
 libpsm2
-libqtxdg
 libqxt-qt5
 libraw1394
 librcd
@@ -876,7 +874,6 @@ pcsc-lite-acsccid
 perl-autobox-Junctions
 perl-Cairo
 perl-Catalyst-Plugin-Cache
-perl-CGI-Struct
 perl-Config-Model-CursesUI
 perl-Config-Model-Itself
 perl-ConfigReader
@@ -1013,7 +1010,6 @@ python-AppTools
 python-arpy
 python-ase
 python-babelfish
-python-basemap
 python-beaker
 python-bitarray
 python-boolean.py
@@ -1052,7 +1048,6 @@ python-django-storages
 python-django-tables2
 python-django-taggit-serializer
 python-django-taggit
-python-django-tastypie
 python-django-timezone-field
 python-dockerfile-parse
 python-dpkt
@@ -1104,7 +1099,6 @@ python-linecache2
 python-lmdb
 python-locket
 python-lz4
-python-manatools
 python-markdown-math
 python-matplotlib-inline
 python-mechanize
