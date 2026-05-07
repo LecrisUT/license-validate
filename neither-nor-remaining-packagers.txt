@@ -1,6 +1,7 @@
 Maintainers by package:
 lazarus              suve
 libftdi              hobbes1069 robert sharkcz
+mbedtls              mstevens pbrobinson robert wcrobert
 openal-soft          fcami jwrdegoede tdawson
 webkitgtk            catanzaro
 
@@ -9,7 +10,10 @@ catanzaro  webkitgtk
 fcami      openal-soft
 hobbes1069 libftdi
 jwrdegoede openal-soft
-robert     libftdi
+mstevens   mbedtls
+pbrobinson mbedtls
+robert     libftdi mbedtls
 sharkcz    libftdi
 suve       lazarus
 tdawson    openal-soft
+wcrobert   mbedtls

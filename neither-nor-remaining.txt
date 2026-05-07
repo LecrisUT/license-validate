@@ -1,5 +1,6 @@
 lazarus
 lazarus
 libftdi
+mbedtls
 openal-soft
 webkitgtk

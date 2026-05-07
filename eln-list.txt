@@ -42,7 +42,6 @@ ansible-pcp
 ant
 anthy-unicode
 antlr
-aom
 aopalliance
 apache-commons-beanutils
 apache-commons-cli
@@ -897,7 +896,6 @@ libisoburn
 libisofs
 libjcat
 libjpeg-turbo
-libjwt
 libkcapi
 libkdumpfile
 libkeepalive
@@ -1043,7 +1041,6 @@ lldpad
 lldpd
 llhttp
 llvm
-llvm21
 lm_sensors
 lmdb
 localsearch
@@ -1769,7 +1766,6 @@ python-pyproject-hooks
 python-pyproject-metadata
 python-pyqt6
 python-pyqt6-sip
-python-pytest-subtests
 python-pyudev
 python-qrcode
 python-referencing
@@ -2172,7 +2168,6 @@ virt-what
 virt-who
 virtio-win
 virtiofsd
-vmaf
 voikko-fi
 volume_key
 vorbis-tools
