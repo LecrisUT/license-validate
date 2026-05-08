@@ -1,6 +1,12 @@
+gi-docgen
+gi-docgen
+gi-docgen
+gi-docgen
+gi-docgen
 lazarus
 lazarus
 libftdi
+libwebp
 mbedtls
 openal-soft
 webkitgtk

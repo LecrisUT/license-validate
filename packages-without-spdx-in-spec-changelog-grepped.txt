@@ -1309,7 +1309,6 @@ cri-o1.34
 cri-o1.35
 CriticalMass
 cri-tools
-cri-tools1.32
 cri-tools1.33
 cri-tools1.34
 cri-tools1.35
@@ -2299,6 +2298,7 @@ fdr
 featherpad
 feather
 fedfind
+fedora-active-user
 fedora-appstream-metadata
 fedora-autofirstboot
 fedora-bookmarks
@@ -4696,6 +4696,8 @@ gpaw-setups
 gpaw
 gperf
 gperftools
+gpgmepp
+gpgmepy
 gpgme
 gpgverify
 gphotoframe
@@ -5289,7 +5291,6 @@ checkpolicy
 check_postgres
 checksec
 check
-cheese
 chemical-mime-data
 CheMPS2
 chemtool
@@ -6728,6 +6729,7 @@ libica
 libICE
 libicns
 libicu76
+libicu77
 libideviceactivation
 libIDL
 libidn
@@ -11045,6 +11047,7 @@ perl-Log-Dispatch-FileRotate
 perl-Log-Dispatchouli
 perl-Log-Dispatch-Perl
 perl-Log-Dispatch
+perl-Log-Fmt-XS
 perl-Log-ger
 perl-Log-Handler
 perl-Log-LogLite
@@ -16363,6 +16366,7 @@ qevercloud
 qflipper
 qgis
 qgit
+qgpgme
 qhexedit2
 qimageblitz
 qimgv
@@ -18156,6 +18160,7 @@ rust-foldhash
 rust-foldhash0.1
 rust-fontdue
 rust-font-kit
+rust-font-test-data
 rust-font-types
 rust-foreign-types-macros
 rust-foreign-types-shared
@@ -19212,6 +19217,7 @@ rust-pty-process
 rust-publicsuffix
 rust-pulldown-cmark-escape
 rust-pulldown-cmark0.11
+rust-pulp
 rust-punycode
 rust-pure-rust-locales
 rust-purl
@@ -19489,6 +19495,7 @@ rust-safe_arch
 rust-safetensors
 rust-salsa-macro-rules
 rust-salsa-macros
+rust-salsa
 rust-salsa20
 rust-same-file
 rust-sanitize-filename

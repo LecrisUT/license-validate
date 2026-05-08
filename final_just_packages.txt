@@ -245,6 +245,16 @@ generic-logos
 gflags
 ghasher
 ghdl
+gi-docgen
+gi-docgen
+gi-docgen
+gi-docgen
+gi-docgen
+gi-docgen
+gi-docgen
+gi-docgen
+gi-docgen
+gi-docgen
 gif2png
 git-evtag
 gkeyfile-sharp
@@ -625,6 +635,8 @@ libva-utils
 libva-v4l2-request
 libvidcap
 libvirt-sandbox
+libwebp
+libwebp
 libwebsockets
 libwfut
 libwnck
@@ -694,7 +706,6 @@ mednafen
 megaglest-data
 memchan
 metapixel
-mhwaveedit
 miglayout
 migrationtools
 mikmod

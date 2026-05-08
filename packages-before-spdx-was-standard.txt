@@ -4490,7 +4490,6 @@ checkpolicy
 check_postgres
 checksec
 check
-cheese
 chemical-mime-data
 CheMPS2
 chemtool
@@ -11251,7 +11250,6 @@ php-psr-http-server-middleware
 php-psr-link
 php-PsrLog
 php-psr-simple-cache
-php-rlerdorf-geoip
 php-sabre-dav4
 php-sabre-event5
 php-sabre-http5

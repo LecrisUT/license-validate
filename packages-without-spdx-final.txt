@@ -245,6 +245,11 @@ generic-logos contains LicenseRef-Callaway, needs to be manually converted
 gflags contains LicenseRef-Callaway, needs to be manually converted
 ghasher contains LicenseRef-Callaway, needs to be manually converted
 ghdl contains LicenseRef-Callaway, needs to be manually converted
+gi-docgen warning: not valid neither as Callaway nor as SPDX, please check
+gi-docgen warning: not valid neither as Callaway nor as SPDX, please check
+gi-docgen warning: not valid neither as Callaway nor as SPDX, please check
+gi-docgen warning: not valid neither as Callaway nor as SPDX, please check
+gi-docgen warning: not valid neither as Callaway nor as SPDX, please check
 gif2png contains LicenseRef-Callaway, needs to be manually converted
 git-evtag contains LicenseRef-Callaway, needs to be manually converted
 gkeyfile-sharp contains LicenseRef-Callaway, needs to be manually converted
@@ -622,6 +627,7 @@ libva-utils contains LicenseRef-Callaway, needs to be manually converted
 libva-v4l2-request contains LicenseRef-Callaway, needs to be manually converted
 libvidcap contains LicenseRef-Callaway, needs to be manually converted
 libvirt-sandbox contains LicenseRef-Callaway, needs to be manually converted
+libwebp warning: not valid neither as Callaway nor as SPDX, please check
 libwebsockets contains LicenseRef-Callaway, needs to be manually converted
 libwfut contains LicenseRef-Callaway, needs to be manually converted
 libwnck contains LicenseRef-Callaway, needs to be manually converted
@@ -690,7 +696,6 @@ mednafen contains LicenseRef-Callaway, needs to be manually converted
 megaglest-data contains LicenseRef-Callaway, needs to be manually converted
 memchan contains LicenseRef-Callaway, needs to be manually converted
 metapixel contains LicenseRef-Callaway, needs to be manually converted
-mhwaveedit - can be trivially converted to GPL-2.0-or-later
 miglayout contains LicenseRef-Callaway, needs to be manually converted
 migrationtools contains LicenseRef-Callaway, needs to be manually converted
 mikmod contains LicenseRef-Callaway, needs to be manually converted

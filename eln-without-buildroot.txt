@@ -374,6 +374,8 @@ google-noto-serif-cjk-vf-fonts
 google-roboto-slab-fonts
 gperf
 gpgme
+gpgmepp
+gpgmepy
 gpgverify
 gpsd
 grafana
