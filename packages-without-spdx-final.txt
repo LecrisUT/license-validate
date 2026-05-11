@@ -245,11 +245,6 @@ generic-logos contains LicenseRef-Callaway, needs to be manually converted
 gflags contains LicenseRef-Callaway, needs to be manually converted
 ghasher contains LicenseRef-Callaway, needs to be manually converted
 ghdl contains LicenseRef-Callaway, needs to be manually converted
-gi-docgen warning: not valid neither as Callaway nor as SPDX, please check
-gi-docgen warning: not valid neither as Callaway nor as SPDX, please check
-gi-docgen warning: not valid neither as Callaway nor as SPDX, please check
-gi-docgen warning: not valid neither as Callaway nor as SPDX, please check
-gi-docgen warning: not valid neither as Callaway nor as SPDX, please check
 gif2png contains LicenseRef-Callaway, needs to be manually converted
 git-evtag contains LicenseRef-Callaway, needs to be manually converted
 gkeyfile-sharp contains LicenseRef-Callaway, needs to be manually converted
@@ -268,8 +263,6 @@ golang-bazil-fuse contains LicenseRef-Callaway, needs to be manually converted
 golang-github-andybalholm-cascadia contains LicenseRef-Callaway, needs to be manually converted
 golang-github-axgle-mahonia contains LicenseRef-Callaway, needs to be manually converted
 golang-github-cention-sany-utf7 contains LicenseRef-Callaway, needs to be manually converted
-golang-github-circonus-labs-apiclient contains LicenseRef-Callaway, needs to be manually converted
-golang-github-circonus-labs-circonusllhist contains LicenseRef-Callaway, needs to be manually converted
 golang-github-clbanning-x2j contains LicenseRef-Callaway, needs to be manually converted
 golang-github-clickhouse contains LicenseRef-Callaway, needs to be manually converted
 golang-github-cockroachdb-pebble contains LicenseRef-Callaway, needs to be manually converted
@@ -279,8 +272,6 @@ golang-github-elazarl-bindata-assetfs contains LicenseRef-Callaway, needs to be 
 golang-github-flynn-json5 contains LicenseRef-Callaway, needs to be manually converted
 golang-github-fortytw2-leaktest contains LicenseRef-Callaway, needs to be manually converted
 golang-github-geertjohan-incremental contains LicenseRef-Callaway, needs to be manually converted
-golang-github-ghodss-yaml contains LicenseRef-Callaway, needs to be manually converted
-golang-github-git-gcfg contains LicenseRef-Callaway, needs to be manually converted
 golang-github-golangci-lint-1 contains LicenseRef-Callaway, needs to be manually converted
 golang-github-golangplus-bytes contains LicenseRef-Callaway, needs to be manually converted
 golang-github-golangplus-fmt contains LicenseRef-Callaway, needs to be manually converted
@@ -334,7 +325,6 @@ golang-github-sourcegraph-annotate contains LicenseRef-Callaway, needs to be man
 golang-github-sourcegraph-syntaxhighlight contains LicenseRef-Callaway, needs to be manually converted
 golang-github-streadway-amqp contains LicenseRef-Callaway, needs to be manually converted
 golang-github-streadway-handy contains LicenseRef-Callaway, needs to be manually converted
-golang-github-syndtr-goleveldb contains LicenseRef-Callaway, needs to be manually converted
 golang-github-twmb-murmur3 contains LicenseRef-Callaway, needs to be manually converted
 golang-github-u-root-iscsinl contains LicenseRef-Callaway, needs to be manually converted
 golang-github-yvasiyarov-newrelic-platform contains LicenseRef-Callaway, needs to be manually converted

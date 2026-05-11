@@ -245,16 +245,6 @@ generic-logos
 gflags
 ghasher
 ghdl
-gi-docgen
-gi-docgen
-gi-docgen
-gi-docgen
-gi-docgen
-gi-docgen
-gi-docgen
-gi-docgen
-gi-docgen
-gi-docgen
 gif2png
 git-evtag
 gkeyfile-sharp
@@ -273,8 +263,6 @@ golang-bazil-fuse
 golang-github-andybalholm-cascadia
 golang-github-axgle-mahonia
 golang-github-cention-sany-utf7
-golang-github-circonus-labs-apiclient
-golang-github-circonus-labs-circonusllhist
 golang-github-clbanning-x2j
 golang-github-clickhouse
 golang-github-cockroachdb-pebble
@@ -284,8 +272,6 @@ golang-github-elazarl-bindata-assetfs
 golang-github-flynn-json5
 golang-github-fortytw2-leaktest
 golang-github-geertjohan-incremental
-golang-github-ghodss-yaml
-golang-github-git-gcfg
 golang-github-golangci-lint-1
 golang-github-golangplus-bytes
 golang-github-golangplus-fmt
@@ -339,7 +325,6 @@ golang-github-sourcegraph-annotate
 golang-github-sourcegraph-syntaxhighlight
 golang-github-streadway-amqp
 golang-github-streadway-handy
-golang-github-syndtr-goleveldb
 golang-github-twmb-murmur3
 golang-github-u-root-iscsinl
 golang-github-yvasiyarov-newrelic-platform

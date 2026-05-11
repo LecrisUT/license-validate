@@ -298,6 +298,7 @@ aqualung
 aqute-bnd
 arachne-pnr
 arandr
+arapuca
 ara
 arbor
 arc-kde
@@ -541,7 +542,6 @@ batik
 bats
 battray
 bbkeys
-bbox-firago-fonts
 bcachefs-tools
 bcache-tools
 bcal
@@ -594,7 +594,6 @@ bicon
 bidscoin
 bids-schema
 bigloo
-bign-handheld-thumbnailer
 bijiben
 biloba
 binaryen
@@ -3101,7 +3100,6 @@ ghc-path-pieces
 ghc-path
 ghc-pattern-arrows
 ghc-pcap
-ghc-pcre-light
 ghc-pem
 ghc-persistent
 ghc-persistent-sqlite
@@ -3133,7 +3131,6 @@ ghc-reflection
 ghc-regex-applicative
 ghc-regex-base
 ghc-regex-compat
-ghc-regex-pcre
 ghc-regex-posix
 ghc-regex-tdfa
 ghc-relude
@@ -3328,6 +3325,7 @@ ghostscript
 ghostwriter
 gh
 giac
+gi-docgen
 giflib
 gifsicle
 gifticlib
@@ -3690,12 +3688,9 @@ gogextract
 gojq
 golang-aead-minisign
 golang-ariga-atlas
-golang-bitbucket-creachadair-shell
 golang-bug-serial-1
 golangci-lint
 golang-cloud-google-compute-metadata
-golang-cloud-google-pubsub
-golang-cloud-google-spanner
 golang-codeberg-gbcox-beetbrainz
 golang-codeberg-gbcox-beetpost
 golang-code-cloudfoundry-bytefmt
@@ -3722,13 +3717,11 @@ golang-github-aliyun-oss-sdk
 golang-github-andreyvit-diff
 golang-github-andybalholm-brotli
 golang-github-anmitsu-shlex
-golang-github-antihax-optional
 golang-github-apache-thrift
 golang-github-apapsch-jsonmerge-2
 golang-github-apparentlymart-textseg-15
 golang-github-appc-spec
 golang-github-armon-consul-api
-golang-github-armon-socks5
 golang-github-asaskevich-govalidator
 golang-github-atotto-clipboard
 golang-github-aws-sdk
@@ -3807,7 +3800,6 @@ golang-github-d2g-dhcp4client
 golang-github-d2g-dhcp4server
 golang-github-d2g-hardwareaddr
 golang-github-eknkc-amber
-golang-github-elazarl-goproxy
 golang-github-emersion-message
 golang-github-emersion-sasl
 golang-github-emersion-textwrapper
@@ -3843,8 +3835,6 @@ golang-github-getkin-kin-openapi
 golang-github-ghemawat-stream
 golang-github-gin-contrib-sse
 golang-github-gin-gonic
-golang-github-git-fixtures-4
-golang-github-gliderlabs-ssh
 golang-github-glog
 golang-github-gobuffalo-envy
 golang-github-gobuffalo-here
@@ -3864,7 +3854,6 @@ golang-github-gojuno-minimock
 golang-github-gokyle-twofactor
 golang-github-golangplus-sort
 golang-github-gomodule-redigo
-golang-github-googleapis-enterprise-certificate-proxy
 golang-github-google-btree
 golang-github-googlecloudplatform-cloudsql-proxy
 golang-github-google-cmp
@@ -3881,7 +3870,6 @@ golang-github-gorilla-mux
 golang-github-gorilla-websocket
 golang-github-gosexy-gettext
 golang-github-gosuri-uilive
-golang-github-groupcache
 golang-github-hailocab-hostpool
 golang-github-hamba-avro2
 golang-github-hanwen-fuse-2
@@ -3968,7 +3956,6 @@ golang-github-kr-text
 golang-github-kylelemons-godebug
 golang-github-kyokomi-emoji
 golang-github-k0kubun-ansi
-golang-github-labstack-echo-4
 golang-github-labstack-gommon
 golang-github-lann-ps
 golang-github-leodido-urn
@@ -4071,18 +4058,15 @@ golang-github-openprinting-goipp
 golang-github-opentracing-basictracer
 golang-github-opentracing
 golang-github-otiai10-copy
-golang-github-patrickmn-cache
 golang-github-pbnjay-memory
 golang-github-pelletier-toml-2
 golang-github-performancecopilot-speed
-golang-github-peterbourgon-diskv
 golang-github-peterh-liner
 golang-github-petermattis-goid
 golang-github-pgaskin-koboutils
 golang-github-philhofer-fwd
 golang-github-pierrre-geohash
 golang-github-pion-randutil
-golang-github-pjbgf-sha1cd
 golang-github-pkg-profile
 golang-github-playground-assert-2
 golang-github-playground-locales
@@ -4132,7 +4116,6 @@ golang-github-schollz-progressbar-2
 golang-github-schollz-progressbar-3
 golang-github-sigurn-crc16
 golang-github-sirupsen-logrus
-golang-github-skeema-knownhosts
 golang-github-skip2-qrcode
 golang-github-snappy
 golang-github-soniakeys-quant
@@ -4186,7 +4169,6 @@ golang-github-vmihailenco-tagparser-2
 golang-github-xaionaro-atomicmap
 golang-github-xaionaro-spinlock
 golang-github-xaionaro-unsafetools
-golang-github-xanzy-ssh-agent
 golang-github-x-cray-logrus-prefixed-formatter
 golang-github-xdg-stringprep
 golang-github-xeipuuv-gojsonpointer
@@ -4235,7 +4217,6 @@ golang-gopkg-yaml-1
 golang-gopkg-yaml-2
 golang-gopkg-yaml-3
 golang-gorm
-golang-hein-version
 golang-jaytaylor-html2text
 golang-k8s-api
 golang-lukechampine-uint128
@@ -7646,6 +7627,7 @@ mokutil
 mold
 molequeue
 molsketch
+monado
 monado-vulkan-layers
 mongo-c-driver
 mongoose
@@ -15858,6 +15840,7 @@ rocm-rpm-macros
 rocm-rpm-macros7.2
 rocm-rpp
 rocm-runtime
+rocm-runtime7.2
 rocm-smi
 rocm-smi7.2
 rocm
@@ -18643,6 +18626,7 @@ rust-qemu-rdp
 rust-qlog
 rust-qoi
 rust-qstring
+rust-quad-url
 rust-quanta
 rust-quantiles
 rust-quick-error
@@ -19694,6 +19678,7 @@ rust-varlink_stdinterfaces
 rust-vcsgraph
 rust-vec_map
 rust-vec1
+rust-vergen-lib
 rust-vergen
 rust-version-compare
 rust-version-compare0.1
@@ -19723,6 +19708,7 @@ rust-vm-fdt
 rust-vm-memory
 rust-vmm-sys-util
 rust-vmm-sys-util0.12
+rust-vmm-sys-util0.14
 rust-vm-superio
 rust-vmw_backdoor
 rust-vsimd

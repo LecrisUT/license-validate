@@ -106,7 +106,7 @@ caja-actions         raveit65 robert
 can-utils            jkastner linville pbrobinson pmatilai rrendec
 caribou              yselkowitz
 cataclysm-dda        dulsi
-catalyst             orion
+catalyst             mkrupcale orion
 cbios                jwrdegoede
 cdlabelgen           rathann
 cdogs-sdl            jwrdegoede
@@ -271,7 +271,6 @@ generic-logos        ngompa
 gflags               dcavalca
 ghasher              filiperosset
 ghdl                 sailer
-gi-docgen            music
 gif2png              jonathanspw
 git-evtag            ignatenkobrain walters
 gkeyfile-sharp       tpokorra
@@ -290,8 +289,6 @@ golang-github-andybalholm-cascadia athoscr
 golang-github-axgle-mahonia zsun
 golang-github-cention-sany-utf7 eclipseo
 golang-github-chai2010-gettext eclipseo
-golang-github-circonus-labs-apiclient orphan
-golang-github-circonus-labs-circonusllhist orphan
 golang-github-clbanning-x2j mikelo2
 golang-github-clickhouse dcavalca
 golang-github-cockroachdb-pebble eclipseo
@@ -301,8 +298,6 @@ golang-github-elazarl-bindata-assetfs eclipseo
 golang-github-flynn-json5 eclipseo jchaloup
 golang-github-fortytw2-leaktest athoscr
 golang-github-geertjohan-incremental eclipseo
-golang-github-ghodss-yaml jchaloup orphan
-golang-github-git-gcfg orphan
 golang-github-golangci-lint-1 obudai
 golang-github-golangplus-bytes qulogic
 golang-github-golangplus-fmt qulogic
@@ -355,7 +350,6 @@ golang-github-sourcegraph-annotate eclipseo jchaloup
 golang-github-sourcegraph-syntaxhighlight eclipseo jchaloup
 golang-github-streadway-amqp logic
 golang-github-streadway-handy alexsaezm
-golang-github-syndtr-goleveldb jchaloup orphan
 golang-github-twmb-murmur3 dcavalca
 golang-github-u-root-iscsinl dcavalca
 golang-github-yvasiyarov-newrelic-platform alexsaezm
@@ -1602,7 +1596,7 @@ java-sig   swing-layout
 javierm    vboot-utils
 jcapitao   python-sqlalchemy-utils
 jcaratzas  python-cheroot python-cherrypy python-repoze-lru python-sphinxcontrib-trio
-jchaloup   aspell-en golang-bazil-fuse golang-github-flynn-json5 golang-github-ghodss-yaml golang-github-gorilla-handlers golang-github-gorilla-securecookie golang-github-ianlancetaylor-demangle golang-github-julienschmidt-httprouter golang-github-kr-fs golang-github-remyoudompheng-bigfft golang-github-smartystreets-assertions golang-github-smartystreets-goconvey golang-github-sourcegraph-annotate golang-github-sourcegraph-syntaxhighlight golang-github-syndtr-goleveldb golang-x-debug libcgroup pilot-link uClibc vim-go
+jchaloup   aspell-en golang-bazil-fuse golang-github-flynn-json5 golang-github-gorilla-handlers golang-github-gorilla-securecookie golang-github-ianlancetaylor-demangle golang-github-julienschmidt-httprouter golang-github-kr-fs golang-github-remyoudompheng-bigfft golang-github-smartystreets-assertions golang-github-smartystreets-goconvey golang-github-sourcegraph-annotate golang-github-sourcegraph-syntaxhighlight golang-x-debug libcgroup pilot-link uClibc vim-go
 jcline     python-kaptan
 jcpunk     pam_krb5 pssh
 jeckersb   libtoml
@@ -1693,7 +1687,7 @@ mikelo2    golang-bazil-fuse golang-github-clbanning-x2j golang-github-gorilla-h
 mizdebsk   decentxml dom4j hawtjni java-packaging-howto jaxen jchardet jetty jsch-agent-proxy sdljava tagsoup xstream
 mkasik     gtk2
 mkoncek    decentxml dom4j hawtjni jakarta-saaj java-packaging-howto jaxen jchardet jetty jsch-agent-proxy sdljava tagsoup xmlstreambuffer xstream
-mkrupcale  libpqxx
+mkrupcale  catalyst libpqxx
 moceap     fakeroot inkscape-psd kmplayer xar
 mohanboddu python-mechanize
 monnerat   insight python-caja xca
@@ -1707,7 +1701,6 @@ msekleta   libwvstreams ttcp wvdial
 mspacek    dnssec-tools lookup
 mstevens   mbedtls
 mtasaka    efont-unicode-bdf monafont mpqc ngspice ochusha skf skkdic wvs-data xtide
-music      gi-docgen
 musuruan   libicns oflb-dignas-handwriting-fonts whichwayisup zaz
 myoung     xen
 mystro256  cubeb iyfct mrrescue safetyblanket
@@ -1732,7 +1725,7 @@ ondrejj    aspell-sk libirman python-chameleon python-formencode python-paste py
 onemorebyte swayidle
 orange-kao python-google-i18n-address python-requests-exoscale-auth python-sly python-xml2rfc
 orion      Mayavi ast catalyst flow-tools garcon h5py hiredis jchardet lasi libaesgm libpgf libxfce4ui ncl octave-general octave-interval octave-io openspecfun pcfi perl-ConfigReader plplot pslib pyscard python-AppTools python-cftime python-enthought-sphinx-theme python-locket python-lz4 python-nbformat python-process-tests python-pytest-benchmark python-pytest-isort python-pytest-mpi python-rencode qtbrowserplugin tcp_wrappers vtable-dumper xdotool ykclient zfp
-orphan     elementary golang-github-circonus-labs-apiclient golang-github-circonus-labs-circonusllhist golang-github-ghodss-yaml golang-github-git-gcfg golang-github-gorilla-securecookie golang-github-ianlancetaylor-demangle golang-github-julienschmidt-httprouter golang-github-kr-fs golang-github-pierrec-cmdflag golang-github-syndtr-goleveldb ipmiutil kwebkitpart log4cpp python-modernize rubygem-macaddr zola
+orphan     elementary golang-github-gorilla-securecookie golang-github-ianlancetaylor-demangle golang-github-julienschmidt-httprouter golang-github-kr-fs golang-github-pierrec-cmdflag ipmiutil kwebkitpart log4cpp python-modernize rubygem-macaddr zola
 ovasik     enum pax
 patrikp    monocypher
 pawo2500   disciplining-minipod

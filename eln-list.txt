@@ -1594,6 +1594,7 @@ pixman
 pkcs11-provider
 pkgconf
 plexus-archiver
+plexus-build-api
 plexus-build-api0
 plexus-cipher
 plexus-classworlds
@@ -1711,7 +1712,6 @@ python-ifaddr
 python-imagesize
 python-iniconfig
 python-iniparse
-python-inotify
 python-installer
 python-into-dbus-python
 python-iso639
@@ -1764,6 +1764,7 @@ python-pycdio
 python-pycotap
 python-pycparser
 python-pygments
+python-pyinotify
 python-pyproject-hooks
 python-pyproject-metadata
 python-pyqt6

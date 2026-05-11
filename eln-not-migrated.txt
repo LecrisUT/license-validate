@@ -1,4 +1,3 @@
 docbook5-style-xsl
-gi-docgen
 libwebp
 linux-firmware

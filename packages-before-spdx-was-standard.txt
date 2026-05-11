@@ -2806,7 +2806,6 @@ ghc-path-pieces
 ghc-path
 ghc-pattern-arrows
 ghc-pcap
-ghc-pcre-light
 ghc-pem
 ghc-persistent
 ghc-persistent-sqlite
@@ -2837,7 +2836,6 @@ ghc-reflection
 ghc-regex-applicative
 ghc-regex-base
 ghc-regex-compat
-ghc-regex-pcre
 ghc-regex-posix
 ghc-regex-tdfa
 ghc-relude
@@ -3354,7 +3352,6 @@ goffice
 gojq
 golang-ariga-atlas
 golang-bazil-fuse
-golang-bitbucket-creachadair-shell
 golang-bug-serial-1
 golang-code-cloudfoundry-bytefmt
 golang-contrib-opencensus-resource
@@ -3375,11 +3372,9 @@ golang-github-andreyvit-diff
 golang-github-andybalholm-brotli
 golang-github-andybalholm-cascadia
 golang-github-anmitsu-shlex
-golang-github-antihax-optional
 golang-github-apache-thrift
 golang-github-appc-spec
 golang-github-armon-consul-api
-golang-github-armon-socks5
 golang-github-asaskevich-govalidator
 golang-github-atotto-clipboard
 golang-github-aws-sdk
@@ -3409,8 +3404,6 @@ golang-github-cactus-statsd-client
 golang-github-c-bata-prompt
 golang-github-cention-sany-utf7
 golang-github-cilium-ebpf
-golang-github-circonus-labs-apiclient
-golang-github-circonus-labs-circonusllhist
 golang-github-clbanning-x2j
 golang-github-clickhouse
 golang-github-client9-plaintext
@@ -3459,7 +3452,6 @@ golang-github-d2g-dhcp4
 golang-github-edsrzf-mmap
 golang-github-eknkc-amber
 golang-github-elazarl-bindata-assetfs
-golang-github-elazarl-goproxy
 golang-github-emersion-message
 golang-github-emersion-sasl
 golang-github-emersion-textwrapper
@@ -3492,12 +3484,8 @@ golang-github-geertjohan-incremental
 golang-github-geertjohan-rice
 golang-github-getkin-kin-openapi
 golang-github-ghemawat-stream
-golang-github-ghodss-yaml
 golang-github-gin-contrib-sse
 golang-github-gin-gonic
-golang-github-git-fixtures-4
-golang-github-git-gcfg
-golang-github-gliderlabs-ssh
 golang-github-glog
 golang-github-gobuffalo-envy
 golang-github-gobuffalo-here
@@ -3541,7 +3529,6 @@ golang-github-gorilla-schema
 golang-github-gorilla-websocket
 golang-github-gosexy-gettext
 golang-github-gosuri-uilive
-golang-github-groupcache
 golang-github-hailocab-hostpool
 golang-github-hashicorp-cleanhttp
 golang-github-hashicorp-errwrap
@@ -3622,7 +3609,6 @@ golang-github-kr-text
 golang-github-kylelemons-godebug
 golang-github-kyokomi-emoji
 golang-github-k0kubun-ansi
-golang-github-labstack-echo-4
 golang-github-labstack-gommon
 golang-github-lann-ps
 golang-github-leodido-urn
@@ -3714,10 +3700,8 @@ golang-github-opentracing-basictracer
 golang-github-opentracing
 golang-github-op-logging
 golang-github-otiai10-copy
-golang-github-patrickmn-cache
 golang-github-pelletier-toml-2
 golang-github-performancecopilot-speed
-golang-github-peterbourgon-diskv
 golang-github-peterh-liner
 golang-github-petermattis-goid
 golang-github-pgaskin-koboutils
@@ -3795,7 +3779,6 @@ golang-github-streadway-handy
 golang-github-stretchr-objx
 golang-github-subosito-gotenv
 golang-github-syndtr-gocapability
-golang-github-syndtr-goleveldb
 golang-github-task
 golang-github-termie-shutil
 golang-github-test-deep
@@ -3826,7 +3809,6 @@ golang-github-vividcortex-gohistogram
 golang-github-xaionaro-atomicmap
 golang-github-xaionaro-spinlock
 golang-github-xaionaro-unsafetools
-golang-github-xanzy-ssh-agent
 golang-github-x-cray-logrus-prefixed-formatter
 golang-github-xdg-stringprep
 golang-github-xeipuuv-gojsonpointer
@@ -3878,7 +3860,6 @@ golang-gopkg-yaml-1
 golang-gopkg-yaml-2
 golang-gopkg-yaml-3
 golang-gorm
-golang-hein-version
 golang-jaytaylor-html2text
 golang-k8s-api
 golang-modernc-fileutil

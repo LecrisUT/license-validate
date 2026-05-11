@@ -1499,7 +1499,6 @@ python-ifaddr
 python-imagesize
 python-iniconfig
 python-iniparse
-python-inotify
 python-installer
 python-into-dbus-python
 python-iso639
@@ -1545,6 +1544,7 @@ python-pyasn1
 python-pycdio
 python-pycparser
 python-pygments
+python-pyinotify
 python-pyproject-hooks
 python-pyqt6
 python-pyqt6-sip
