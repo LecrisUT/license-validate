@@ -1527,7 +1527,6 @@ python-networkx
 python-oauthlib
 python-packaging
 python-pam
-python-passlib
 python-pathspec
 python-pefile
 python-pexpect
@@ -1851,7 +1850,7 @@ tpm2-tss
 trace-cmd
 traceroute
 tree-pkg
-tree-sitter
+tree-sitter0.25
 trustee
 trustee-guest-components
 tss2

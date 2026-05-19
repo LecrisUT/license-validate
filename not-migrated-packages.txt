@@ -140,7 +140,6 @@ DevIL
 dev86
 diff-pdf
 dionaea
-disciplining-minipod
 discount
 dmg2img
 dmtx-utils
@@ -170,7 +169,6 @@ echo-icon-theme
 eiskaltdcpp
 ektype-mukta-fonts
 elementary
-elements-alexandria
 elisa-player
 engrampa
 enchant
@@ -553,7 +551,6 @@ libesmtp
 libesmtp
 libfep
 libfilteraudio
-libftdi
 libgadu
 libgdamm
 libglade2
@@ -617,7 +614,6 @@ libva-utils
 libva-v4l2-request
 libvidcap
 libvirt-sandbox
-libwebp
 libwebsockets
 libwfut
 libwnck
@@ -817,7 +813,6 @@ ogdi
 ogre
 ochusha
 okteta
-openal-soft
 openarc
 openbox-theme-mistral-thin-dark
 openbox-theme-mistral-thin
@@ -1306,7 +1301,6 @@ sqliteman
 sqliteodbc
 sshexport
 sslscan
-sslsplit
 stargz-snapshotter
 subversion-api-docs
 sugar-deducto

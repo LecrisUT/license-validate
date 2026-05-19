@@ -1428,7 +1428,6 @@ czmq
 c2esp
 c2hs
 c4core
-c4core0.2.8
 c4fs
 c4log
 c4project
@@ -1740,7 +1739,6 @@ dot2tex
 doublecmd
 double-conversion
 douceur
-dovecot-fts-xapian
 dovecot
 doxygen
 doxy2man
@@ -1924,8 +1922,6 @@ elementary-screenshot
 elementary-settings-daemon
 elementary
 elementary-xfce-icon-theme
-elements-alexandria
-elements
 elfio
 elfutils
 elinks
@@ -6152,6 +6148,7 @@ kio-gdrive
 kio_gopher
 kio_mtp
 kirc
+kirigami-app-components
 kirigami-gallery
 kiriki
 kismet
@@ -6325,6 +6322,7 @@ kturtle
 kubernetes1.33
 kubernetes1.34
 kubernetes1.35
+kubernetes1.36
 kubrick
 kunifiedpush
 kup-backup
@@ -8648,7 +8646,6 @@ netcat
 netcdf-cxx
 netcdf-cxx4
 netcdf-fortran
-netcdf-perl
 netcdf
 netcdf4-python
 netconsd
@@ -8852,7 +8849,11 @@ nvme-stas
 nvmetcli
 nvml
 nvtop
+nwg-bar
+nwg-dock
+nwg-drawer
 nwg-launchers
+nwg-panel
 nwg-wrapper
 nwchem
 nwipe
@@ -9180,6 +9181,7 @@ openbox-theme-mistral-thin
 opencascade
 opencc
 opencity
+openclaw
 opencl-filesystem
 opencl-headers
 OpenCL-ICD-Loader
@@ -10848,6 +10850,7 @@ perl-Chatbot-Eliza
 perl-Check-ISA
 perl-Chemistry-Bond-Find
 perl-Chemistry-Canonicalize
+perl-Chemistry-File-VRML
 perl-Chemistry-Isotope
 perl-Chemistry-Mol
 perl-Chemistry-Pattern
@@ -13384,6 +13387,7 @@ proselint
 prosody
 protobuf-c
 protobuf
+protobuf3-c
 protobuf3
 protontricks
 protozero
@@ -14694,6 +14698,7 @@ python-jnius
 python-joblib
 python-josepy
 python-journal-brief
+python-jq
 python-jsmin
 python-jsondiff
 python-jsonfeed-util
@@ -15210,6 +15215,7 @@ python-pillow-jxl-plugin
 python-pillow
 python-pint
 python-pipdeptree
+python-piper-tts
 python-pip-requirements-parser
 python-pip
 python-pivy
@@ -15783,6 +15789,7 @@ python-setuptools-git-versioning
 python-setuptools-rust
 python-setuptools_scm
 python-setuptools
+python-setuptools80
 python-sexpdata
 python-sgmllib3k
 python-sgp4
@@ -16684,7 +16691,6 @@ rapidjson
 rapidsvn
 rapidxml
 rapidyaml
-rapidyaml0.10.0
 raptor2
 rarian
 rarpd
@@ -17029,6 +17035,7 @@ rocal
 rocalution
 rocblas
 rocclr
+rocclr7.2
 rocdbgapi
 rocdecode
 rocfft
@@ -17045,6 +17052,7 @@ rocm-examples
 rocm-filesystem
 rocm-filesystem7.2
 rocminfo
+rocminfo7.2
 rocm-omp
 rocm-origami
 rocm-primbench
@@ -17346,7 +17354,6 @@ rubygem-css_parser
 rubygem-cucumber-core
 rubygem-cucumber-create-meta
 rubygem-cucumber-cucumber-expressions
-rubygem-cucumber-gherkin
 rubygem-cucumber
 rubygem-cucumber-tag-expressions
 rubygem-cucumber-wire
@@ -18299,6 +18306,7 @@ rust-cxx-gen
 rust-cxx
 rust-cyclonedx-bom-macros
 rust-cyclonedx-bom
+rust-daachorse
 rust-daemonix
 rust-daemonize
 rust-darling_core
@@ -18711,6 +18719,7 @@ rust-gix-hash
 rust-gix-hashtable
 rust-gix-chunk
 rust-gix-ignore
+rust-gix-imara-diff
 rust-gix-index
 rust-gix-lock
 rust-gix-macros
@@ -19446,6 +19455,7 @@ rust-nom_locate
 rust-nom
 rust-nom-supreme
 rust-nom7
+rust-nonempty
 rust-noop_proc_macro
 rust-no-panic
 rust-normalize-line-endings
@@ -19995,7 +20005,6 @@ rust-reqsign
 rust-reqsign-tencent-cos
 rust-reqsign-volcengine-tos
 rust-reqwest-middleware
-rust-reqwest-middleware0.4
 rust-reqwest-retry
 rust-reqwest
 rust-reqwest0.11
@@ -20307,6 +20316,7 @@ rust-slab
 rust-sled
 rust-slog-async
 rust-slog-extlog-derive
+rust-slog-extlog
 rust-slog-json
 rust-slog-scope
 rust-slog
@@ -20755,6 +20765,7 @@ rust-unic-ucd-hangul
 rust-unic-ucd-normal
 rust-unic-ucd-segment
 rust-unic-ucd-version
+rust-unidiff
 rust-unindent
 rust-unindent0.1
 rust-unit-prefix
@@ -20940,6 +20951,7 @@ rust-visibility
 rust-vm-allocator
 rust-vm-fdt
 rust-vm-memory
+rust-vm-memory0.16
 rust-vmm-sys-util
 rust-vmm-sys-util0.12
 rust-vmm-sys-util0.14
@@ -21735,6 +21747,7 @@ steinberg-bravura-fonts
 steinberg-petaluma-fonts
 stellarium
 stellarsolver
+stepcode
 step
 stevia
 stfl
@@ -22276,6 +22289,7 @@ tree-sitter-java
 tree-sitter-jsdoc
 tree-sitter-json
 tree-sitter-lua
+tree-sitter-markdown
 tree-sitter-phpdoc
 tree-sitter-php
 tree-sitter-python
@@ -22927,6 +22941,7 @@ wvs-data
 wv
 wwl
 wxapt
+wxedid
 wxGTK
 wxmacmolplt
 wxMaxima

@@ -140,7 +140,6 @@ DevIL contains LicenseRef-Callaway, needs to be manually converted
 dev86 contains LicenseRef-Callaway, needs to be manually converted
 diff-pdf contains LicenseRef-Callaway, needs to be manually converted
 dionaea contains LicenseRef-Callaway, needs to be manually converted
-disciplining-minipod contains LicenseRef-Callaway, needs to be manually converted
 discount contains LicenseRef-Callaway, needs to be manually converted
 dmg2img contains LicenseRef-Callaway, needs to be manually converted
 dmtx-utils contains LicenseRef-Callaway, needs to be manually converted
@@ -170,7 +169,6 @@ echo-icon-theme contains LicenseRef-Callaway, needs to be manually converted
 eiskaltdcpp contains LicenseRef-Callaway, needs to be manually converted
 ektype-mukta-fonts contains LicenseRef-Callaway, needs to be manually converted
 elementary contains LicenseRef-Callaway, needs to be manually converted
-elements-alexandria contains LicenseRef-Callaway, needs to be manually converted
 elisa-player contains LicenseRef-Callaway, needs to be manually converted
 engrampa contains LicenseRef-Callaway, needs to be manually converted
 enchant contains LicenseRef-Callaway, needs to be manually converted
@@ -553,7 +551,6 @@ libesmtp contains LicenseRef-Callaway, needs to be manually converted
 libesmtp contains LicenseRef-Callaway, needs to be manually converted
 libfep contains LicenseRef-Callaway, needs to be manually converted
 libfilteraudio contains LicenseRef-Callaway, needs to be manually converted
-libftdi warning: not valid neither as Callaway nor as SPDX, please check
 libgadu contains LicenseRef-Callaway, needs to be manually converted
 libgdamm contains LicenseRef-Callaway, needs to be manually converted
 libglade2 contains LicenseRef-Callaway, needs to be manually converted
@@ -617,7 +614,6 @@ libva-utils contains LicenseRef-Callaway, needs to be manually converted
 libva-v4l2-request contains LicenseRef-Callaway, needs to be manually converted
 libvidcap contains LicenseRef-Callaway, needs to be manually converted
 libvirt-sandbox contains LicenseRef-Callaway, needs to be manually converted
-libwebp warning: not valid neither as Callaway nor as SPDX, please check
 libwebsockets contains LicenseRef-Callaway, needs to be manually converted
 libwfut contains LicenseRef-Callaway, needs to be manually converted
 libwnck contains LicenseRef-Callaway, needs to be manually converted
@@ -817,7 +813,6 @@ ogdi contains LicenseRef-Callaway, needs to be manually converted
 ogre contains LicenseRef-Callaway, needs to be manually converted
 ochusha contains LicenseRef-Callaway, needs to be manually converted
 okteta contains LicenseRef-Callaway, needs to be manually converted
-openal-soft warning: not valid neither as Callaway nor as SPDX, please check
 openarc contains LicenseRef-Callaway, needs to be manually converted
 openbox-theme-mistral-thin-dark contains LicenseRef-Callaway, needs to be manually converted
 openbox-theme-mistral-thin contains LicenseRef-Callaway, needs to be manually converted
@@ -1306,7 +1301,6 @@ sqliteman contains LicenseRef-Callaway, needs to be manually converted
 sqliteodbc contains LicenseRef-Callaway, needs to be manually converted
 sshexport contains LicenseRef-Callaway, needs to be manually converted
 sslscan contains LicenseRef-Callaway, needs to be manually converted
-sslsplit contains LicenseRef-Callaway, needs to be manually converted
 stargz-snapshotter contains LicenseRef-Callaway, needs to be manually converted
 subversion-api-docs contains LicenseRef-Callaway, needs to be manually converted
 sugar-deducto contains LicenseRef-Callaway, needs to be manually converted

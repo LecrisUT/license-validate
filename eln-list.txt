@@ -63,7 +63,6 @@ appstream-data
 apr
 apr-util
 aqute-bnd
-argon2
 argparse-manpage
 asciidoc
 asio
@@ -1672,18 +1671,16 @@ pytest
 python-PyMySQL
 python-alembic
 python-argcomplete
-python-argon2-cffi
-python-argon2-cffi-bindings
 python-asn1crypto
 python-attrs
 python-augeas
 python-awscrt
-python-bcrypt
 python-blivet
 python-breathe
 python-build
 python-cffi
 python-charset-normalizer
+python-cmarkgfm
 python-colorama
 python-configobj
 python-configshell
@@ -1743,7 +1740,6 @@ python-nihtest
 python-oauthlib
 python-packaging
 python-pam
-python-passlib
 python-pathspec
 python-pefile
 python-pexpect
@@ -2113,6 +2109,7 @@ trace-cmd
 traceroute
 tree-pkg
 tree-sitter
+tree-sitter0.25
 trustee
 trustee-guest-components
 tss2

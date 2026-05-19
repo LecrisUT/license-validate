@@ -156,6 +156,7 @@ amtterm
 am-utils
 anaconda-realmd
 anaconda
+anaconda-webui
 anagramarama
 analitza
 anarch
@@ -1439,7 +1440,6 @@ dot2tex
 doublecmd
 double-conversion
 douceur
-dovecot-fts-xapian
 dovecot
 doxygen
 doxy2man
@@ -1592,8 +1592,6 @@ elementary-photos
 elementary-settings-daemon
 elementary
 elementary-xfce-icon-theme
-elements-alexandria
-elements
 elfio
 elfutils
 elinks
@@ -5285,6 +5283,7 @@ kturtle
 kubernetes1.33
 kubernetes1.34
 kubernetes1.35
+kubernetes1.36
 kubrick
 kurdit-unikurd-web-fonts
 kuserfeedback
@@ -7277,7 +7276,6 @@ netcat
 netcdf-cxx
 netcdf-cxx4
 netcdf-fortran
-netcdf-perl
 netcdf
 netcdf4-python
 netconsd
@@ -7448,6 +7446,7 @@ nvme-stas
 nvmetcli
 nvml
 nwg-launchers
+nwg-panel
 nwchem
 nwipe
 nx-libs
@@ -13260,6 +13259,7 @@ python-sep
 python-serpent
 python-setproctitle
 python-setuptools
+python-setuptools80
 python-sexpdata
 python-sgmllib3k
 python-shamir-mnemonic
